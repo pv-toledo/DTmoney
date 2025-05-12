@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2025-05-12T17:53:20.126Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 100,
+      "createdAt": "2025-05-12T17:30:20.126Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2025-05-12T20:52:09.988Z",
+      "id": 3
+    },
+    {
+      "description": "Jantar",
+      "price": 150,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-05-12T20:54:25.589Z",
+      "id": 4
+    },
+    {
+      "description": "Whey Protein",
+      "price": 120,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-05-12T21:14:35.744Z",
+      "id": 5
+    }
+  ]
+}
